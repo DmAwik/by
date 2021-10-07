@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<carriages>
+    <carriage>
+        <type>0</type>
+        <countCarriage>2</countCarriage>
+        <countPerson>5</countPerson>
+        <capacity>0</capacity>
+    </carriage>
+    <carriage>
+        <type>1</type>
+        <countCarriage>2</countCarriage>
+        <countPerson>0</countPerson>
+        <capacity>20</capacity>
+    </carriage>
+    <carriage>
+        <type>2</type>
+        <countCarriage>2</countCarriage>
+        <countPerson>0</countPerson>
+        <capacity>0</capacity>
+    </carriage>
+</carriages>

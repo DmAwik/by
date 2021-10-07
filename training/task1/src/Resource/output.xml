@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Trains>
+    <Train>
+        <type>Locomotive</type>
+        <totalCapacity>40</totalCapacity>
+        <totalCountPeople>0</totalCountPeople>
+        <getCountCarriage>3</getCountCarriage>
+    </Train>
+</Trains>
